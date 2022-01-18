@@ -1,3 +1,3 @@
 # weather-app
 
-#no database, get data from two api.
+## no database, get data from two api.
